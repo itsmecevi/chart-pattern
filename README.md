@@ -114,7 +114,7 @@ Catatan:
 * Disarankan menunggu pullback di garis support sebelum memutuskan untuk buy
 
 
-###6-Ascending Triangle
+### 6-Ascending Triangle
 
 ![cp11](https://user-images.githubusercontent.com/27078712/87165274-1ea28e80-c2f4-11ea-98fc-c76ca7588682.PNG)
 
