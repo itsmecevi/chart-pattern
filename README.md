@@ -87,6 +87,28 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin kuat pergerakan sebelum terjadinya pennant, maka semakin kuat juga peluang terjadinya breakout di pola pennant
 * Pennat dengan ujung semakin meruncing lebih bagus peluangnya daripada pennant dengan ujung tumpul
 
+### A Cup with Handle:
+
+![cp9](https://user-images.githubusercontent.com/27078712/87153585-ea25d700-c2e1-11ea-9407-b78d7ab3cbc5.PNG)
+
+![cp10](https://user-images.githubusercontent.com/27078712/87155424-1c850380-c2e5-11ea-8800-fa8f46c59e06.png)
+
+
+
+Untuk akurasi pola ini, beberapa hal harus diperhatikan:
+
+* Didahului dengan pergerakan bulish yang kuat
+* Bagian cekung terbawah gelas harus dibawah 50% dari pergerakan bullish sebelumnya
+* Pegangan gelas harus lebih kecil dari 50% ketinggian dari gelasnya 
+
+Statistik pola ini:
+
+* 79% kasus, breakout dari pola ini adalah bullish
+* 73% kasus, akurasi pola ini mencapai target profit yang ingin dicapai setelah mencapai permukaan gelas
+* 74% kasus, setelah breakout, harga melakukan pullback
+
+
+
 
 ## Pola Reversal (berbalik arah)
 
