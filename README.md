@@ -13,8 +13,8 @@
 
 Dari tabel di atas, maka kita akan mendapatkan kesimpulan sbb:
 
-* Pola chart terbaik REVERSAL: Head and Shoulder, Inverted Head and Shoulder, Rising Wedges dan Falling Wedges
-* Pola terbaik CONTINUATION: Bullish Flags dan Bearish Flags
+* **Pola chart terbaik REVERSAL: Head and Shoulder, Inverted Head and Shoulder, Rising Wedges dan Falling Wedges**
+* **Pola terbaik CONTINUATION: Bullish Flags dan Bearish Flags**
 
 **Pola chart berdasarkan ketepatan arah dan target:**
 
