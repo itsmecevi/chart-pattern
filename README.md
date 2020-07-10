@@ -38,7 +38,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 
 ## Pola Continuation (berkelanjutan)
 
-1. Horizontal Channel:
+### 1-Horizontal Channel:
 
 ![cp4](https://user-images.githubusercontent.com/27078712/87140441-b5a72080-c2cb-11ea-93e0-848e997b0980.PNG)
 
