@@ -87,7 +87,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin kuat pergerakan sebelum terjadinya pennant, maka semakin kuat juga peluang terjadinya breakout di pola pennant
 * Pennat dengan ujung semakin meruncing lebih bagus peluangnya daripada pennant dengan ujung tumpul
 
-### A Cup with Handle:
+### 5-A Cup with Handle:
 
 ![cp9](https://user-images.githubusercontent.com/27078712/87153585-ea25d700-c2e1-11ea-9407-b78d7ab3cbc5.PNG)
 
@@ -112,6 +112,33 @@ Catatan:
 * Pola ini merupakan pola untuk jangka panjang 
 * Pola ini lebih sebenarnya bisa dipakai untuk bullish atau bearish, tetappi pada kondisi bullish jauh lebih akurat
 * Disarankan menunggu pullback di garis support sebelum memutuskan untuk buy
+
+
+###6-Ascending Triangle
+
+![cp11](https://user-images.githubusercontent.com/27078712/87165274-1ea28e80-c2f4-11ea-98fc-c76ca7588682.PNG)
+
+
+Statistik:
+
+* 62% kasus, breakout adalah bullish
+* 75% kasus, polanya akan valid jika continuation 
+* 75% kasus, keakuratannya jika breakout resistance level
+* 60% kasus, pullback terjadi kembali lagi ke resistance level
+* 25% kasus, breakout palsu
+
+Catatan:
+
+* Breakout kebanyakan merupakan 2/3 panjang segitiga
+* Breakout terjadi kebanyakan sebelum titik perpotongan antara garis support dan resistance
+* Hindari breakout yang terjadi sebelum terjadi 2/3 dari panjang segitiga
+
+
+
+* Ascending Triangle mempunyai 2 line yaitu line support dan line resistance
+* Line pertama membentuk support sedangkan kedua membentuk resistance yang lurus (warna merah)
+* Masing-masing line dikatakan bersiap siap valid jika menyentuh 2 garis tersebut minimal 2x
+* Masing-masing line akan valid, jika minimal 3x menyentuh 2 garis tersebut
 
 
 
