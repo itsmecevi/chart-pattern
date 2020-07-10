@@ -48,7 +48,16 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Breakout atau exit kemungkinan terbesar adalah setelah 4 titik point horizontal channel
 
 
-2. 
+### 2-Bullish Channel 
+
+![cp5](https://user-images.githubusercontent.com/27078712/87143153-d2455780-c2cf-11ea-9295-ab8ca26f626c.PNG)
+
+* Tidak dianjurkan membuka posisi sell
+* Bukalah posisi buy pada saat harga di titik garis support
+* Untuk mengindari breakout palsu, buatlah trendline sebagai titik support dan resistance dengan menggunakan candlestick high dan low point bukan berdasarkan body candlestick
+* Data dan statistik menunjukan bahwa breakout terjadi setelah 4 kali atau 4 titik bersentuhan dengan support line atau garis
+* Semakin support line dilalui, maka semakin besar kemungkinan break dengan pola tersebut
+* Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di resistance line
 
 
 ## Pola Reversal (berbalik arah)
