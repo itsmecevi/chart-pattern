@@ -75,6 +75,9 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 
 ![cp7](https://user-images.githubusercontent.com/27078712/87150565-83ea8580-c2dc-11ea-9a07-3957b957feb4.PNG)
 
+![cp8](https://user-images.githubusercontent.com/27078712/87151070-65d15500-c2dd-11ea-831a-ca7a27a67f05.jpg)
+
+
 * Pennant adalah sebuah pola continuation seperti symmetrical triangle dengan karakteristik yang berbeda
 * Pennant bisa terjadi di keadaan bullish atau bearish
 * 75% kasus, pennant breakout searah dengan pergerakan yang membentuknya
