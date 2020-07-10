@@ -71,6 +71,19 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di support line
 
 
+### 4-Pennant:
+
+![cp7](https://user-images.githubusercontent.com/27078712/87150565-83ea8580-c2dc-11ea-9a07-3957b957feb4.PNG)
+
+* Pennant adalah sebuah pola continuation seperti symmetrical triangle dengan karakteristik yang berbeda
+* Pennant bisa terjadi di keadaan bullish atau bearish
+* 75% kasus, pennant breakout searah dengan pergerakan yang membentuknya
+* 90% kasus, penant jelas continuation 
+* 55% kasus, take profit pennant berhasil diraih
+* 16% kasus, pennant melakukan pullback
+* Semakin kuat pergerakan sebelum terjadinya pennant, maka semakin kuat juga peluang terjadinya breakout di pola pennant
+* Pennat dengan ujung semakin meruncing lebih bagus peluangnya daripada pennant dengan ujung tumpul
+
 
 ## Pola Reversal (berbalik arah)
 
