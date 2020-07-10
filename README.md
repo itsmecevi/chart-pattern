@@ -107,6 +107,11 @@ Statistik pola ini:
 * 73% kasus, akurasi pola ini mencapai target profit yang ingin dicapai setelah mencapai permukaan gelas
 * 74% kasus, setelah breakout, harga melakukan pullback
 
+Catatan:
+
+* Pola ini merupakan pola untuk jangka panjang 
+* Pola ini lebih sebenarnya bisa dipakai untuk bullish atau bearish, tetappi pada kondisi bullish jauh lebih akurat
+* Disarankan menunggu pullback di garis support sebelum memutuskan untuk buy
 
 
 
