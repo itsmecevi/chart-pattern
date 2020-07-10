@@ -146,8 +146,6 @@ Catatan:
 ![cp12](https://user-images.githubusercontent.com/27078712/87168596-f2d5d780-c2f8-11ea-9ec9-3dd106476b9a.PNG)
 
 * Merupakan kebalikan dari ascending triangle
-* Secara teknis sama hanya saja dari segi statistik, descending triangle lebih lemah secara akurasi dibanding dengan ascending triangle
-
 
 
 ## Pola Reversal (berbalik arah)
