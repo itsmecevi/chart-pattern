@@ -146,6 +146,24 @@ Catatan:
 ![cp12](https://user-images.githubusercontent.com/27078712/87168596-f2d5d780-c2f8-11ea-9ec9-3dd106476b9a.PNG)
 
 * Merupakan kebalikan dari ascending triangle
+* Akan valid jika menyentuh garis horizontal minimal 2x
+
+Statistik:
+
+* 64% kasus, breakout adalah sebuah bearish
+* 61% kasus, pola ini adalah sebuah pola continuation
+* 54% kasus, take profit terpenuhi jika level harga melewati support (breakout)
+* 64% kasus, harga pullback atau berbalik sampai kepada level resistance
+* 6% kasus, sinyal palsu setelah breakout
+
+Catatan:
+
+* Breakout terjadi biasanya setelah 2/3 panjang segitiga
+* Breakout terjadi biasanya sebelum perpotongan 2 garis yaitu garis support dan resistance
+* Sinyal palsu mengindikasikan bahwa arah breakout akan tidak tepat
+* Hindari sinyal palsu jika breakout kurang dari 2/3 panjang segitiga
+* Pola pullback kembali ke garis resistance akan menggagalka pola ini
+
 
 
 ## Pola Reversal (berbalik arah)
