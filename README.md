@@ -36,9 +36,9 @@ Kesimpulannya adalah,
 
 Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan lebih detail
 
-## Pola Continuation (berkelanjutan)
+## Pola Continuation (berkelanjutan):
 
-### 1-Horizontal Channel:
+### 1-Horizontal Channel
 
 ![cp4](https://user-images.githubusercontent.com/27078712/87140441-b5a72080-c2cb-11ea-93e0-848e997b0980.PNG)
 
@@ -48,7 +48,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Breakout atau exit kemungkinan terbesar adalah setelah 4 titik point horizontal channel
 
 
-### 2-Bullish Channel:
+### 2-Bullish Channel
 
 ![cp5](https://user-images.githubusercontent.com/27078712/87143153-d2455780-c2cf-11ea-9295-ab8ca26f626c.PNG)
 
@@ -59,7 +59,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin support line dilalui, maka semakin besar kemungkinan break dengan pola tersebut
 * Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di resistance line
 
-### 3-Bearish Channel:
+### 3-Bearish Channel
 
 ![cp6](https://user-images.githubusercontent.com/27078712/87146524-433b3e00-c2d5-11ea-8a16-83261818690f.PNG)
 
@@ -71,7 +71,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di support line
 
 
-### 4-Pennant:
+### 4-Pennant
 
 ![cp7](https://user-images.githubusercontent.com/27078712/87150565-83ea8580-c2dc-11ea-9a07-3957b957feb4.PNG)
 
@@ -87,7 +87,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin kuat pergerakan sebelum terjadinya pennant, maka semakin kuat juga peluang terjadinya breakout di pola pennant
 * Pennat dengan ujung semakin meruncing lebih bagus peluangnya daripada pennant dengan ujung tumpul
 
-### 5-A Cup with Handle:
+### 5-A Cup with Handle
 
 ![cp9](https://user-images.githubusercontent.com/27078712/87153585-ea25d700-c2e1-11ea-9407-b78d7ab3cbc5.PNG)
 
