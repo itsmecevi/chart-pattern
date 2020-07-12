@@ -36,7 +36,7 @@ Kesimpulannya adalah,
 
 Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan lebih detail
 
-# Pola Continuation (berkelanjutan):
+# Pola Continuation (berkelanjutan)->
 
 **1-Horizontal Channel:**
 
@@ -218,10 +218,10 @@ Catatan:
 
 
 
-# Pola Reversal (berbalik arah):
+# Pola Reversal (berbalik arah)->
 
 
-**1-Rising Wedge:**
+**1-Rising Wedge-!:**
 
 ![cp17](https://user-images.githubusercontent.com/27078712/87240282-6fc09880-c442-11ea-9214-7093a7a489f6.PNG)
 
@@ -244,7 +244,7 @@ Catatan:
 * Rising Wedge yang lebar lebih baik daripada Rising Wegde yang lancip
 
 
-**2-Falling Wedge:**
+**2-Falling Wedge-!:**
 
 ![cp18](https://user-images.githubusercontent.com/27078712/87241240-2294f480-c44b-11ea-8681-3a2fef61f672.PNG)
 
@@ -253,6 +253,21 @@ Catatan:
 * Sama dengan Rising Wedge, hanya untuk reversal ketika bearish
 
 
+
+**3-Descending Broadening Wedge:**
+
+* Reversal pattern untuk bullish
+* Dibentuk oleh 2 garis bearish
+* Valid jika dibentuk oleh pergerakan bolak balik (oscilasi) minimum 2x
+* Artinya valid jika menyentuh support 3x dan 2x menyentuh resistance
+* Pola ini menunjukan ambisi pihak pembeli untuk mengrontrol market. Memang harga akan bergerak berlawanan, tetapi dengan variasi yang lebih lebar, artinya perlawanan buyer makin kuat
+* Biasanya volume akan meningkat dengan drastis jika sudah menunjukan breakout
+
+![cp19](https://user-images.githubusercontent.com/27078712/87241482-dd25f680-c44d-11ea-9ea7-7e70d0c060a4.PNG)
+![cp20](https://user-images.githubusercontent.com/27078712/87241484-e2834100-c44d-11ea-85ed-6ed1addbf4e6.PNG)
+
+
+**4-V Bottom:**
 
 
 
