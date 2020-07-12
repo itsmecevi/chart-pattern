@@ -190,7 +190,7 @@ Catatan:
 
 * Sama seperti bearish symmetrical triangle hanya saja ini kasus pada saat bullish
 
-## 10-Bullish Flag
+## 10-Bullish Flag-!
 
 ![cp15](https://user-images.githubusercontent.com/27078712/87239661-e1491880-c43b-11ea-8f6b-52fd8114df98.PNG)
 
@@ -207,7 +207,7 @@ Catatan:
 * Pullback akan menggugurkan pola ini
 
 
-## 11-Bearish Flag
+## 11-Bearish Flag-!
 
 ![cp16](https://user-images.githubusercontent.com/27078712/87239745-d478f480-c43c-11ea-9bd5-92c95894a659.PNG)
 
