@@ -164,6 +164,56 @@ Catatan:
 * Hindari sinyal palsu jika breakout kurang dari 2/3 panjang segitiga
 * Pola pullback kembali ke garis resistance akan menggagalka pola ini
 
+### 8-Bearish Symmetrical Triangle
+
+![cp13](https://user-images.githubusercontent.com/27078712/87239378-b7422700-c438-11ea-8f38-783d8b9d3950.PNG)
+
+* Berbentuk segita dan merupakan pola continuation
+* garis pertama membentuk resistance dan garis setelahnya membentuk support
+* Segitiga disebut bearish karena cenderungan terjadi di dalam pergerakan harga bearish
+* Valid jika terjadapt oscilasi atau bolak balik 2 garis support dan resistance
+* Valid jika minimum menyentuh garis support dan atau resistance 3x
+* Valid jika terjadi breakout
+
+Catatan:
+
+* Breakout terjadi kebanyakan di 80% total panjang segitiga
+* Makin jelas dan sederhana breakout yang terjadi, kemungkinan akurasinya semakin tinggi
+* Ideal terbaik jika pola terbentuk dari sejak berawal dari bearish trend
+* Hindari buka posisi jika break kurang dari 3/4 panjang triangle
+* Pullback harga ke area resistance akan menggagalkan pola ini
+
+
+## 9-Bullish Symmetrical Triangle
+
+![cp14](https://user-images.githubusercontent.com/27078712/87239638-9929f600-c43b-11ea-947f-df83b462b30e.PNG)
+
+* Sama seperti bearish symmetrical triangle hanya saja ini kasus pada saat bullish
+
+## 10-Bullish Flag
+
+![cp15](https://user-images.githubusercontent.com/27078712/87239661-e1491880-c43b-11ea-8f6b-52fd8114df98.PNG)
+
+* Flag dibentuk oleh 2 garis miring membentuk sebuah segi empat
+* Dibentuk dalam fase konsolidasi atau pada saat bearish tren
+
+
+Catatan:
+
+* Semakin kuar fase bearish yang dibentuk sebelum pola ini, maka semakin kuat pergerakan harga setelah terbentuknya pola ini
+* Ketika searah dengan bearish tren, maka performance pola ini semakin lemah, akan makin kuat ketika koreksi
+* Pola dengan segiempat yang terbentuk lebih curam, maka akan lebih kuat
+* Pola akan lebih kuat , jika tidak ada break palsu
+* Pullback akan menggugurkan pola ini
+
+
+## 11-Bearish Flag
+
+![cp16](https://user-images.githubusercontent.com/27078712/87239745-d478f480-c43c-11ea-9bd5-92c95894a659.PNG)
+
+
+* Sama seperti Bullish Flag, hanya dalam keadaan bullish (koreksi)
+
 
 
 ## Pola Reversal (berbalik arah)
