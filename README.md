@@ -184,13 +184,13 @@ Catatan:
 * Pullback harga ke area resistance akan menggagalkan pola ini
 
 
-## 9-Bullish Symmetrical Triangle
+### 9-Bullish Symmetrical Triangle
 
 ![cp14](https://user-images.githubusercontent.com/27078712/87239638-9929f600-c43b-11ea-947f-df83b462b30e.PNG)
 
 * Sama seperti bearish symmetrical triangle hanya saja ini kasus pada saat bullish
 
-## 10-Bullish Flag-!
+### 10-Bullish Flag-!
 
 ![cp15](https://user-images.githubusercontent.com/27078712/87239661-e1491880-c43b-11ea-8f6b-52fd8114df98.PNG)
 
@@ -216,7 +216,32 @@ Catatan:
 
 
 
-## Pola Reversal (berbalik arah)
+## Pola Reversal (berbalik arah):
+
+
+### 1-Rising Wedge
+
+![cp17](https://user-images.githubusercontent.com/27078712/87240282-6fc09880-c442-11ea-9214-7093a7a489f6.PNG)
+
+* Salah satu pola reversal terkuat
+* Terdiri dari 2 garis convergent bullish
+* Valid jika terdapat oscilasi atau pergerakan bolak balik diantara support dan resistance
+* Valid jika oscilasi ini terjadi minimum 2x, artinya 3x support line dan 2x resistance line
+* Pola ini menandakan jenuhnya market karena pembelian
+* Breakout menandakan validasi dari pola ini
+* Open posisi ketika ada pullback yang kembali ke titik support
+ 
+ Catatan:
+ 
+ * Tersentuhnya garis resistance harus jelas membentuk sebuah bendera
+* Semakin tajam sudut yang terbentuk, semakin kuat juga pola breakout yang terbentuk
+* Jika terjadi sinyal breakout palsu, maka kemungkinan pola ini terbentuk sangat kecil sekitar 3%
+* Retracement atau pola gerakan menurun lebih kuat 2x lipat daripada pemebentukan gerakan harga ke atas di dalam pola ini
+* Pullback yang terjadi sekali lagi di garis support akan membatalkan pola ini
+* Breakout point tejadi biasanya 60% dari total panjang perpotongan garis support dan resistance
+* Rising Wedge yang lebar lebih baik daripada Rising Wegde yang lancip
+
+
 
 
 
