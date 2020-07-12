@@ -287,6 +287,18 @@ Catatan:
 * Pergerakan bullish akan berlanjut setelah figur V terbentuk
 
 
+**5-Double Bottom:**
+
+![cp22](https://user-images.githubusercontent.com/27078712/87242073-9b984a00-c453-11ea-8707-3c3dcb37812d.PNG)
+
+
+* Double bottom adalah pola bullish berbentuk W
+* Pola ini terbentuk dari 2 titik terendah di dalam level support tertentu
+* Pola ini terbentuk karena investor tidak mau harga turun dan menandakan akan terjadi sebuah reversal
+
+Catatan:
+
+ 
 
 
 
