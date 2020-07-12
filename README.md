@@ -242,6 +242,13 @@ Catatan:
 * Rising Wedge yang lebar lebih baik daripada Rising Wegde yang lancip
 
 
+### 2-Falling Wedge
+
+![cp18](https://user-images.githubusercontent.com/27078712/87241240-2294f480-c44b-11ea-8681-3a2fef61f672.PNG)
+
+
+* Reversal untuk bullish 
+* Sama dengan Rising Wedge, hanya untuk reversal ketika bearish
 
 
 
