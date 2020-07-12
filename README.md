@@ -38,7 +38,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 
 # Pola Continuation (berkelanjutan):
 
-### 1-Horizontal Channel
+**1-Horizontal Channel:**
 
 ![cp4](https://user-images.githubusercontent.com/27078712/87140441-b5a72080-c2cb-11ea-93e0-848e997b0980.PNG)
 
@@ -48,7 +48,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Breakout atau exit kemungkinan terbesar adalah setelah 4 titik point horizontal channel
 
 
-### 2-Bullish Channel
+**2-Bullish Channel:**
 
 ![cp5](https://user-images.githubusercontent.com/27078712/87143153-d2455780-c2cf-11ea-9295-ab8ca26f626c.PNG)
 
@@ -59,7 +59,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin support line dilalui, maka semakin besar kemungkinan break dengan pola tersebut
 * Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di resistance line
 
-### 3-Bearish Channel
+**3-Bearish Channel:**
 
 ![cp6](https://user-images.githubusercontent.com/27078712/87146524-433b3e00-c2d5-11ea-8a16-83261818690f.PNG)
 
@@ -71,7 +71,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Meskipun harga ditembus setelah melalui pola ini, ada kemungkinan besar, harga akan pullback lagi di support line
 
 
-### 4-Pennant
+**4-Pennant:**
 
 ![cp7](https://user-images.githubusercontent.com/27078712/87150565-83ea8580-c2dc-11ea-9a07-3957b957feb4.PNG)
 
@@ -87,7 +87,7 @@ Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan le
 * Semakin kuat pergerakan sebelum terjadinya pennant, maka semakin kuat juga peluang terjadinya breakout di pola pennant
 * Pennat dengan ujung semakin meruncing lebih bagus peluangnya daripada pennant dengan ujung tumpul
 
-### 5-A Cup with Handle
+**5-A Cup with Handle:**
 
 ![cp9](https://user-images.githubusercontent.com/27078712/87153585-ea25d700-c2e1-11ea-9407-b78d7ab3cbc5.PNG)
 
@@ -114,7 +114,7 @@ Catatan:
 * Disarankan menunggu pullback di garis support sebelum memutuskan untuk buy
 
 
-### 6-Ascending Triangle
+**6-Ascending Triangle:**
 
 ![cp11](https://user-images.githubusercontent.com/27078712/87165274-1ea28e80-c2f4-11ea-98fc-c76ca7588682.PNG)
 
@@ -141,7 +141,7 @@ Catatan:
 * Masing-masing line akan valid, jika minimal 3x menyentuh 2 garis tersebut
 
 
-### 7-Descending Triangle
+**7-Descending Triangle:**
 
 ![cp12](https://user-images.githubusercontent.com/27078712/87168596-f2d5d780-c2f8-11ea-9ec9-3dd106476b9a.PNG)
 
@@ -164,7 +164,7 @@ Catatan:
 * Hindari sinyal palsu jika breakout kurang dari 2/3 panjang segitiga
 * Pola pullback kembali ke garis resistance akan menggagalka pola ini
 
-### 8-Bearish Symmetrical Triangle
+**8-Bearish Symmetrical Triangle:**
 
 ![cp13](https://user-images.githubusercontent.com/27078712/87239378-b7422700-c438-11ea-8f38-783d8b9d3950.PNG)
 
@@ -184,13 +184,15 @@ Catatan:
 * Pullback harga ke area resistance akan menggagalkan pola ini
 
 
-### 9-Bullish Symmetrical Triangle
+**9-Bullish Symmetrical Triangle:**
 
 ![cp14](https://user-images.githubusercontent.com/27078712/87239638-9929f600-c43b-11ea-947f-df83b462b30e.PNG)
 
 * Sama seperti bearish symmetrical triangle hanya saja ini kasus pada saat bullish
 
-### 10-Bullish Flag-!
+
+
+**10-Bullish Flag-!:**
 
 ![cp15](https://user-images.githubusercontent.com/27078712/87239661-e1491880-c43b-11ea-8f6b-52fd8114df98.PNG)
 
@@ -207,7 +209,7 @@ Catatan:
 * Pullback akan menggugurkan pola ini
 
 
-## 11-Bearish Flag-!
+**11-Bearish Flag-!:**
 
 ![cp16](https://user-images.githubusercontent.com/27078712/87239745-d478f480-c43c-11ea-9bd5-92c95894a659.PNG)
 
@@ -216,10 +218,10 @@ Catatan:
 
 
 
-## Pola Reversal (berbalik arah):
+# Pola Reversal (berbalik arah):
 
 
-### 1-Rising Wedge
+**1-Rising Wedge:**
 
 ![cp17](https://user-images.githubusercontent.com/27078712/87240282-6fc09880-c442-11ea-9214-7093a7a489f6.PNG)
 
@@ -242,7 +244,7 @@ Catatan:
 * Rising Wedge yang lebar lebih baik daripada Rising Wegde yang lancip
 
 
-### 2-Falling Wedge
+**2-Falling Wedge:**
 
 ![cp18](https://user-images.githubusercontent.com/27078712/87241240-2294f480-c44b-11ea-8681-3a2fef61f672.PNG)
 
@@ -252,47 +254,10 @@ Catatan:
 
 
 
-### 3-Descending Broadening Wedge
-
-
-### 3-Descending Broadening Wedge
-
-
-
-### 3-Descending Broadening Wedge
-
-
-
-### 3-Descending Broadening Wedge
 
 
 
 
-### 3-Descending Broadening Wedge
-
-
-
-### 3-Descending Broadening Wedge
-
-
-
-
-### 3-Descending Broadening Wedge
-
-
-
-
-### 3-Descending Broadening Wedge
-
-
-
-
-### 3-Descending Broadening Wedge
-
-
-
-
-### 3-Descending Broadening Wedge
 
 
 
