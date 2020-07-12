@@ -269,6 +269,23 @@ Catatan:
 
 **4-V Bottom:**
 
+![cp21](https://user-images.githubusercontent.com/27078712/87241895-ad78ed80-c451-11ea-8273-8f80163aeba4.PNG)
+
+
+* V bottom mempunyai pergerakan yang lancip, biasanya ditandai dengan pergerakan besar tiba-tiba karena ketidaklogisan investor
+* Biasanya V bottom muncul setelah pengumuman ekonomi yang mengejutkan. Ditandai dengan volatiliti yang tinggi
+* Beberapa kriteria untuk memenuhi validitas pola ini adalah sbb:
+  * Titik terbawah ditandai dengan 1 CS, biasanya dengan body besar yang mengindikasikan reversal
+  * Pergerakan bearish ditandai dengan kecuraman pergerakan dan trendline yang curam
+  * Tingkat kemiringan bullish dan bearish harus hampir sama
+  
+Catatan:
+
+* Sangat sulit untuk mengantisipasi bentuk V
+* Pola ini ditentukan oleh seberapa kuat reversal yang terjadi di titik bawah V
+* Biasanya pola ini sering muncul dengan bantuan Channel
+* Pergerakan bullish akan berlanjut setelah figur V terbentuk
+
 
 
 
