@@ -255,3 +255,44 @@ Catatan:
 ### 3-Descending Broadening Wedge
 
 
+### 3-Descending Broadening Wedge
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
+
+### 3-Descending Broadening Wedge
+
+
+
