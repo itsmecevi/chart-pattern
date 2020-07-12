@@ -1,4 +1,4 @@
-## Trading dengan pola chart
+# Trading dengan pola chart
 
 * Pola-pola chart adalah sebuah pelajaran dasar dalam hal teknikal analisis. Pola tersebut terjadi lewat teori kebiasaan market dan peluang
 * Pola tersebut merupakan sebuah formasi yang berasal dari pergerakan harga 
@@ -36,7 +36,7 @@ Kesimpulannya adalah,
 
 Sesi selanjutnya kita akan mengenal berbagai jenis pola chart tersebut dengan lebih detail
 
-## Pola Continuation (berkelanjutan):
+# Pola Continuation (berkelanjutan):
 
 ### 1-Horizontal Channel
 
