@@ -453,6 +453,14 @@ Catatan:
 
 
 
+**18-Broadening Bottom:**
+
+![cp36](https://user-images.githubusercontent.com/27078712/87444431-f9c65800-c620-11ea-8f4f-8a357f758cd9.PNG)
+
+
+* Pola bullish reversal
+* Pola ini terbentuk karena ketidakpastian dimana potensi bearish di saat breakout lebih besar dari potensi bullish
+* Setelah kontak 5x dengan support dan resistance, peluang terjadi breakout hampir 90%
 
 
 
