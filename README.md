@@ -397,11 +397,27 @@ Sama seperti Diamond Top, hanya pola ini merupakan kebalikannya, yaitu untuk pol
 * Pola ini bukan menunjukan buyer kehilangan minat, tetapi seller ingin mendominasi
  
  
+ **14-Head and shoulders (H&S):**
  
+ ![cp31](https://user-images.githubusercontent.com/27078712/87411908-958c9f80-c5f2-11ea-8c7f-62f5ce3a2f73.PNG)
+
+* HS adalah pola reversal untuk bearish
+* Pola ini paling populer diantara trader dengan tingkat keberhasilan yang tinggi
+
+Catatan:
+
+* Semakin lama pola bullish yang terjadi sebelum pola HS, maka reversal yang terjadi semakin memiliki potensi besar 
+* Pola HS yang shouldernya semakin dekat ke Head memiliki peluang besar 
+* Jika shoulder kiri lebih tinggi dari shoulder kanan, peluang terbentuk akurasinya pola ini besar
+* Ketika terjadi pullback di area resistance bahunya, maka pola ini akan batal
 
 
 
+**15-Inverse head and shoulders (H&Si):**
+
+![cp32](https://user-images.githubusercontent.com/27078712/87412502-50b53880-c5f3-11ea-8640-867a50f5cd84.PNG)
 
 
+Sama seperti HS tetapi untuk pola bullish.
 
 
