@@ -375,6 +375,29 @@ Sama seperti Diamond Top, hanya pola ini merupakan kebalikannya, yaitu untuk pol
 
 
 
+**12-Slacer:**
+
+![cp28](https://user-images.githubusercontent.com/27078712/87407353-3deb3580-c5ec-11ea-986b-39776bc8e8d5.PNG)
+
+
+* Slacer adalah pola chart berbentuk U
+* Slacer secara umum mempunyai bagian bawah flat
+* Slacer tidak terlalu direkomendasikan karena keberhasilannya kurang dari 50%, yaitu sekitar 36%
+
+
+**13-Ascending Broadening Wedge:**
+
+![cp29](https://user-images.githubusercontent.com/27078712/87409175-cb2f8980-c5ee-11ea-8a4a-510946a922b1.PNG)
+![cp30](https://user-images.githubusercontent.com/27078712/87409191-d1be0100-c5ee-11ea-973c-b080e0f19405.PNG)
+
+
+* Pola ini merupakan pola reversal pada saat bullish
+* Valid jika mempunyai pola socilasi bolak balik pada garis support dan resistance nya
+* Valid, jika paling tidak 3x menyentuh garis support dan resistance
+* Pola ini bukan menunjukan buyer kehilangan minat, tetapi seller ingin mendominasi
+ 
+ 
+ 
 
 
 
