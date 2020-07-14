@@ -287,7 +287,16 @@ Catatan:
 * Pergerakan bullish akan berlanjut setelah figur V terbentuk
 
 
-**5-Double Bottom:**
+**5-V Top:**
+
+![cp26](https://user-images.githubusercontent.com/27078712/87389112-53eafd00-c5d0-11ea-96ef-52186fd72aa6.PNG)
+
+Sama seperti V Top, hanya saja pola ini untuk reversal yang bearish
+
+
+
+
+**6-Double Bottom:**
 
 ![cp22](https://user-images.githubusercontent.com/27078712/87242073-9b984a00-c453-11ea-8707-3c3dcb37812d.PNG)
 
@@ -302,8 +311,17 @@ Catatan:
 * Ketika rentang antara titik puncak semakin dekat, maka memperkuat sinyal dan memperkuat kemungkinan sukses
 * Ketika downward movement lebih kuat dan rentang lebih besar, maka break akan lebih kuat dan memperkuat sinyal peluang keberhasila pola ini
 
+
+**7-Double Top:**
+
+![cp27](https://user-images.githubusercontent.com/27078712/87389344-c8be3700-c5d0-11ea-9a1d-8e2fd7615cc6.PNG)
+
+
+Sama seperti Double Bottom, hanya pola ini bearish
+
+
  
-**5-Triple Bottom:**
+**8-Triple Bottom:**
 
 
 ![cp23](https://user-images.githubusercontent.com/27078712/87385401-2a2dd800-c5c8-11ea-8963-eff7288f47a8.PNG)
@@ -324,7 +342,14 @@ Catatan:
 * Semakin lebar, jarak antara titik support dan resistance yang terjadi, maka akan semakin kuat kemungkinan bullish yang akan terjadi juga
 
 
-**6-Diamond Top:**
+**9-Triple Top:**
+
+Sama seperti Triple Bottom, hanya pola ini untuk bearish
+
+
+
+
+**10-Diamond Top:**
 
 ![cp24](https://user-images.githubusercontent.com/27078712/87388418-f904d600-c5ce-11ea-9eea-982a66533b87.PNG)
 
@@ -342,7 +367,7 @@ Catatan:
 
 
 
-**6-Diamond Bottom:**
+**11-Diamond Bottom:**
 
 ![cp25](https://user-images.githubusercontent.com/27078712/87388965-053d6300-c5d0-11ea-9b10-7528e651cb41.PNG)
 
@@ -350,9 +375,6 @@ Sama seperti Diamond Top, hanya pola ini merupakan kebalikannya, yaitu untuk pol
 
 
 
-**7-V Top:**
-
-![cp26](https://user-images.githubusercontent.com/27078712/87389112-53eafd00-c5d0-11ea-96ef-52186fd72aa6.PNG)
 
 
 
