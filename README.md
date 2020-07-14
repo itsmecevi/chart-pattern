@@ -425,3 +425,39 @@ Catatan:
 Sama seperti HS tetapi untuk pola bullish.
 
 
+**16-Rounding Top:**
+
+![cp33](https://user-images.githubusercontent.com/27078712/87435655-3b053a80-c616-11ea-9f28-2f52938587af.PNG)
+
+
+* Rounding Top disebut juga reverse saucer berbentuk U 
+* Jika terjadi pullback di sekitaran breakout, maka pola akan gagal
+
+
+**17-Rounding Bottom:**
+
+![cp34](https://user-images.githubusercontent.com/27078712/87436003-a818d000-c616-11ea-819e-0dd7116390e3.PNG)
+
+Sama seperti Rounding Top, hanya saja untuk bullish.
+
+
+Catatan:
+
+* Harga kebanyakan balik kembali ke sisi lehernya, dan melakukan breakout
+* Semakin bulatannya lebar (tidak lancip), maka semakin cepat gerakan ke bearish yang kemungkinan akan terjadi
+* Ketika ada pullback di garis necklane, kemungkinan pola ini akan lemah
+* Ketika pola sudah terbentuk, maka titik tertinggi dengan necklane akan bisa dijadikan target TP
+
+
+![cp35](https://user-images.githubusercontent.com/27078712/87436262-fe860e80-c616-11ea-8c5d-a608e8b048ae.PNG)
+
+
+
+
+
+
+
+
+
+
+
