@@ -298,7 +298,62 @@ Catatan:
 
 Catatan:
 
+* Ketika harga break, pullback yang cepat akan memperkuat sinyal
+* Ketika rentang antara titik puncak semakin dekat, maka memperkuat sinyal dan memperkuat kemungkinan sukses
+* Ketika downward movement lebih kuat dan rentang lebih besar, maka break akan lebih kuat dan memperkuat sinyal peluang keberhasila pola ini
+
  
+**5-Triple Bottom:**
+
+
+![cp23](https://user-images.githubusercontent.com/27078712/87385401-2a2dd800-c5c8-11ea-8963-eff7288f47a8.PNG)
+
+
+
+* Triple bottom membentuk pola WV. Semakin ketiga titik low itu berdekatan, mengindikasikan support yang kuat
+* Hati-hati jika pantulan kedua lebih rendah dari pantulan sebelumnya, pola yang mungkin saja inverted head atau shoulder
+* Pantulan pertama harus sama dengan pantulan kedua
+
+
+Catatan:
+
+* Dalam kasus pullback, pergerakan bullish lebih lemah
+* Ketika support dites sangat panjang, kemungkinan breakout sangat lebih besar
+* Semakin berdekatan pola titik tertinggi dan terendah pola ini, kemungkinan berhasil pola ini semakin besar
+* Semakin dekat antara pullback dan resistance, maka semakin akan baik pula kemungkinan pola ini berhasil
+* Semakin lebar, jarak antara titik support dan resistance yang terjadi, maka akan semakin kuat kemungkinan bullish yang akan terjadi juga
+
+
+**6-Diamond Top:**
+
+![cp24](https://user-images.githubusercontent.com/27078712/87388418-f904d600-c5ce-11ea-9eea-982a66533b87.PNG)
+
+
+* Merupakan bearish reversal yang menyerupai sebuah diamond
+* Pola ini sebenarnya adalah sebuah bullish, lalu investor kehilangan minatnya, dan menarik investasi sehingga terjadilah bearish
+* Volatilitas terjadi ketika perjalanan setengah dari diamond nya
+
+Catatan:
+
+* Diamond top lebih sering muncul daripada diamond bottom
+* Kadangkala terjadi pola head and shoulders yang di atasnya terdapat diamond top
+* Pola diamond top sangat sulit diketahui dan kadangkala dilupakan oleh trader
+* Pola diamond terbagi menjadi 2, awal setengahnya, dan akhir setengah diamond setelahnya- Yang pertama adalah continuation dan yang kedua adalah pola reversal
+
+
+
+**6-Diamond Bottom:**
+
+![cp25](https://user-images.githubusercontent.com/27078712/87388965-053d6300-c5d0-11ea-9b10-7528e651cb41.PNG)
+
+Sama seperti Diamond Top, hanya pola ini merupakan kebalikannya, yaitu untuk pola reversal bullish
+
+
+
+**7-V Top:**
+
+![cp26](https://user-images.githubusercontent.com/27078712/87389112-53eafd00-c5d0-11ea-96ef-52186fd72aa6.PNG)
+
 
 
 
