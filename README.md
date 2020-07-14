@@ -397,7 +397,7 @@ Sama seperti Diamond Top, hanya pola ini merupakan kebalikannya, yaitu untuk pol
 * Pola ini bukan menunjukan buyer kehilangan minat, tetapi seller ingin mendominasi
  
  
- **14-Head and shoulders (H&S):**
+ **14-Head and shoulders (H&S)-!:**
  
  
  ![cp31](https://user-images.githubusercontent.com/27078712/87412929-ccaf8080-c5f3-11ea-8adb-6201ddf5d45d.PNG)
@@ -416,7 +416,7 @@ Catatan:
 
 
 
-**15-Inverse head and shoulders (H&Si):**
+**15-Inverse head and shoulders (H&Si)-!:**
 
 
 ![cp32](https://user-images.githubusercontent.com/27078712/87412964-d933d900-c5f3-11ea-8d24-069129c79650.PNG)
