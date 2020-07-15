@@ -484,7 +484,7 @@ Sama seperti Broadening Top, hanya saja untuk barish reversal
 
 
 
-# Rangkun Chart-Pattern->
+# Rangkuman Chart-Pattern->
 
 * Pola Terkuat REVERSAL:
   * Head and Shoulder
