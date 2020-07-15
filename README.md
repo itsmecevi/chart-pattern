@@ -484,6 +484,23 @@ Sama seperti Broadening Top, hanya saja untuk barish reversal
 
 
 
+# Rangkun Chart-Pattern->
+
+* Pola Terkuat REVERSAL:
+  * Head and Shoulder
+  * Inverted Head and Shoulder
+  * Rising Wedges 
+  * Falling Wedges
+  
+* Pola Terkuat CONTINUATION:
+  * Bullish Flags 
+  * Bearish Flags
+
+
+
+![Chart-Pattern](https://user-images.githubusercontent.com/27078712/87502692-6c205200-c68c-11ea-9d9b-a18f9134619b.jpg)
+
+
 
 
 
