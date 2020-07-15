@@ -463,6 +463,24 @@ Catatan:
 * Setelah kontak 5x dengan support dan resistance, peluang terjadi breakout hampir 90%
 
 
+**19-Broadening Top:**
+
+![cp37](https://user-images.githubusercontent.com/27078712/87501707-f4e9be80-c689-11ea-9941-b1e349be24a8.PNG)
+
+Sama seperti Broadening Top, hanya saja untuk barish reversal
+
+
+
+
+**20-right-angled ascending broadening wedge:**
+
+![cp38](https://user-images.githubusercontent.com/27078712/87502134-07182c80-c68b-11ea-99d7-1f1d2df600e3.PNG)
+
+
+
+**21-right-angled descending broadening wedge:**
+
+![cp39](https://user-images.githubusercontent.com/27078712/87502247-4fcfe580-c68b-11ea-8ef3-fa4766878027.PNG)
 
 
 
